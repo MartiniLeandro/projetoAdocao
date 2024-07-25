@@ -27,7 +27,7 @@ export default function Coelho() {
 
 const estilos = StyleSheet.create({
     imagem : {
-        width:80,
+        width:95,
         height:'100%',
         borderTopLeftRadius: 8,
         borderBottomLeftRadius:8,
